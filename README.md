@@ -1,2 +1,10 @@
-# RehabilitationService
-Rehabilitation service
+# Название проекта
+
+Описание проекта
+
+# Список участников
+
+*(добавьте сюда список участников с кликабельными ссылками на профили)*
+
+1. [Иван Скороходов](https://gitflic.ru/user/i_5kor)
+2. [Михаил Краснобаев](https://gitflic.ru/user/kms-qwe)
